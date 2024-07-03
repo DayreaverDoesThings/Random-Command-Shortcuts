@@ -1,1 +1,1 @@
-This is a small project that I made that contains shortcuts to various commands.
+This is a small project that I made which contains shortcuts to various commands.
