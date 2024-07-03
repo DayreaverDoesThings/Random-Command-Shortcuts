@@ -1,2 +1,1 @@
-# Random-Command-Shortcuts
-Small lil project i made
+This is a small project i made that contains shortcuts to various commands
